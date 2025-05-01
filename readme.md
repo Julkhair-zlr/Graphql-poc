@@ -5,6 +5,8 @@ Welcome to the **React GraphQL FullStack Tutorial 2025**! This project demonstra
 1. View a list of users.
 2. View a single user by ID.
 3. Create a new user.
+4. Update a existing user.
+5. Delect a single user by ID.
 
 ## Features
 
@@ -91,9 +93,9 @@ Use the **Create New User** form to add a new user. You'll need to provide a `na
 
 use the **Update existing user** for update a user data.
 
-### 5. Deleting a user
+### 5. Delect a single user by ID
 
-use the **Delete a user** for delete a user data.
+use the **Delect a single user by ID** for delete a selected user data.
 
 ## Tech Stack
 
